@@ -1,9 +1,8 @@
 # Sock It To Me
 
-Who wants socks at TrailheaDX 2018
+Who wants socks at TrailheaDX 2018?
 
-## Submit a pull request :smile:
-
+Just submit a pull request :smile:
 1. Open [Readme.md](https://github.com/salesforce/sock-it-to-me/edit/master/README.md)
 2. Add your name in the readme.md file
 3. Scroll to the bottom and click on "commit changes" 
